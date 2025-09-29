@@ -1,0 +1,8 @@
+/* Hide content until styles are loaded */
+.js-preload {
+  visibility: hidden;
+}
+
+.js-preload.rendered {
+  visibility: visible;
+} 
