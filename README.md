@@ -15,4 +15,4 @@ HTML:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/uobe-style/themes/viva-light/theme.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/uobe-style/custom-styles.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/uobe-style/ukonstyles.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/uobe-style/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/uobe-style/static/css/main.css">
