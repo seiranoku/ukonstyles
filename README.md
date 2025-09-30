@@ -18,7 +18,7 @@ HTML:
 
 ********************
 
-CDN U-OBE 
+CDN SKP
 -------------------------------------------------
 CDN : https://cdn.jsdelivr.net/gh/seiranoku/ukonstyles@main/skp-style/
 
